@@ -36,7 +36,7 @@ export default class AddTodo extends Component {
         <div className="container">
           <form onSubmit={this.handleSubmit}>
             <div className="panel panel-default">
-              <div className="panel-heading">Add Task</div>
+              <div className="panel-heading">Add Taskss</div>
               <div className="panel-body">
               <p>Task description</p>
                 <input type="text" value={this.state.value} onChange={this.handleChange} className="form-control"/>
