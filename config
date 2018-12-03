@@ -1,0 +1,3 @@
+test_server = 10.0.0.1
+prod_server = 10.1.0.1
+jenkins user = jenkins
